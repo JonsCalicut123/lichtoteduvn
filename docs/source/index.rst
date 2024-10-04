@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Lịch Tốt - Trang Web Hàng Đầu Về Tử Vi và Phong Thủy Tại Việt Nam
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Lịch Tốt <https://lichtot.edu.vn/>`_ là trang web hàng đầu tại Việt Nam chuyên cung cấp thông tin và dịch vụ liên quan đến tử vi, phong thủy và phong tục tập quán. Người dùng có thể tìm hiểu về phong tục tập quán trong các dịp quan trọng như Tết, cưới hỏi, và xuất hành, cũng như các phong tục liên quan đến sinh con và tang lễ. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Ngoài ra, Lịch Tốt còn cung cấp tử vi hàng ngày cho 12 con giáp, xem ngày tốt xấu, hướng dẫn đặt tên cho con, và các kiến thức liên quan đến tử vi. Lịch Tốt được liên kết qua địa chỉ lichtot.edu.vn, cung cấp dịch vụ tư vấn miễn phí và thông tin cập nhật về các sự kiện trong năm.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: Tòa nhà 15-17 Ngọc Khánh, Ba Đình, Hà Nội, Việt Nam. 
 
-Contents
---------
+Phone: 0912 999 888. 
 
-.. toctree::
+Email: contact@lichtot.edu.vn. 
 
-   usage
-   api
+Website: https://lichtot.edu.vn/ 
+
+#lichtot #trangchulichtot #dangkylichtot #dangnhaplichtot #linklichtot
